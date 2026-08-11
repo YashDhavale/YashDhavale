@@ -97,6 +97,4 @@ I like going one layer deeper than the obvious answer.
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=YashDhavale&color=blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashDhavale&show_icons=true&theme=radical)
-
 
