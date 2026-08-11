@@ -74,8 +74,8 @@ Software Engineer working across **AI, distributed systems, backend engineering,
 ---
 ### 🏏 Beyond Technology
 
-- 🏏 **Cricket:** passionate player with a deep interest in the strategy, tactics, and nuances of the game
-- ♟️ **Chess:** enthusiast with a strong interest in strategy, positional play, and the psychology behind decisions
+- 🏏 **Cricket:** Experienced professional player with a deep interest in the strategy, tactics, and nuances of the game
+- ♟️ **Chess:** 2000 Rated player with interest in strategy, positional play, and the psychology behind decisions
 - 📜 **History:** deeply interested in Indian history, civilizations, and the events and ideas that shaped the world we see today
 ---
 ### 🔬 Research & Curiosity
