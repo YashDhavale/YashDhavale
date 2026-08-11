@@ -10,7 +10,6 @@ Software Engineer working across **AI, distributed systems, backend engineering,
 * 🎓 **Master's in Computer Science** — North Carolina State University
 * 🎓 **Bachelor of Engineering in Information Technology** — Pune Institute of Computer Technology
 * 🔬 Interested in **AI/ML, NLP, intelligent systems, and human-centered AI**
-* 🧠 Fascinated by **psychology, human behavior, and the reasons behind what we see around us**
 * 🏏 Cricket | ⚽ Football | ♟️ Chess | 🎵 Music | 📜 History
 * 🕉️ Ramayana & Mahabharata enthusiast
 * 🔍 Usually somewhere between *“Why does this work?”* and *“What if we tried this instead?”*
@@ -59,13 +58,29 @@ Software Engineer working across **AI, distributed systems, backend engineering,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 🏆 Highlights
+
+- 🚀 Built an AI-agent solution that reduced assessment costs from **~$100K to ~$1K/year** and cut report generation time from **7 days to ~2 minutes**
+- 💻 Worked as a **Software Engineer at Qualys** and **Software Development Engineer (AI) Intern at F5**, building scalable backend, cloud, and AI-powered systems
+- 🎓 Graduated **3rd in a batch of 83** with a **9.50/10 CGPA** in Information Technology
+- 🔬 Worked as a **Research Assistant at NC State**, exploring AI/ML, intelligent systems, and healthcare applications
+
+### 🧭 Leadership
+
+- 🏆 Led teams across **7+ hackathons**, including **Smart India Hackathon (SIH)**, taking ideas from problem definition to working solutions
+- 🤝 Enjoy bringing people with different strengths together, figuring out where each person can contribute best, and keeping the team moving toward the same goal
+
+### 🏏 Beyond Technology
+
+- 🏏 **Cricket:** passionate player with a deep interest in the strategy, tactics, and nuances of the game
+- ♟️ **Chess:** enthusiast with a strong interest in strategy, positional play, and the psychology behind decisions
+- 📜 **History:** deeply interested in Indian history, civilizations, and the events and ideas that shaped the world we see today
+  
 ### 🔬 Research & Curiosity
+Published research on “Lung Segmentation and Disease Classification Using Chest X-Ray Images,” exploring how AI/ML can support medical imaging and healthcare decision-making. 
+As a Research Assistant at NC State, I also worked on intelligent systems and applied AI.
 
-Worked as a **Research Assistant at NC State**, exploring **AI/ML, intelligent systems, and healthcare applications**.
-
-I'm particularly interested in the space where **technology meets people** — how intelligent systems can understand, assist, and make better decisions in areas where the human impact actually matters.
-
-I also enjoy looking at the psychology behind technology: **why people behave the way they do, how they interact with intelligent systems, and what makes technology genuinely useful.**
+I’m interested in the intersection of technology, people, and decision-making—from how intelligent systems assist in high-impact domains to the psychology behind how people interact with technology.
 
 I like going one layer deeper than the obvious answer.
 
@@ -74,5 +89,7 @@ I like going one layer deeper than the obvious answer.
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yashdhavale/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash.dhavale2010@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ydhavale45)
 
 ---
