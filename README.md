@@ -4,7 +4,7 @@
 
 Software Engineer working across **AI, distributed systems, backend engineering, and cyber security**. I like figuring out why things work the way they do — whether it’s code, products, algorithms, or people!
 
-## 🚀 About Me
+### 🚀 About Me
 
 * 💻 Building **scalable software systems and AI-powered applications**
 * 🎓 **Master's in Computer Science** — North Carolina State University
@@ -15,7 +15,7 @@ Software Engineer working across **AI, distributed systems, backend engineering,
 * 🕉️ Ramayana & Mahabharata enthusiast
 * 🔍 Usually somewhere between *“Why does this work?”* and *“What if we tried this instead?”*
 
-## 💻 Stack
+### 💻 Stack
 
 **Languages**
 
@@ -59,7 +59,7 @@ Software Engineer working across **AI, distributed systems, backend engineering,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🔬 Research & Curiosity
+### 🔬 Research & Curiosity
 
 Worked as a **Research Assistant at NC State**, exploring **AI/ML, intelligent systems, and healthcare applications**.
 
@@ -71,7 +71,7 @@ I like going one layer deeper than the obvious answer.
 
 **Why? → What if? → Let's build it.**
 
-## 🤝 Connect
+### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yashdhavale/)
 
