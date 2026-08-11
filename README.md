@@ -14,6 +14,7 @@ Software Engineer working across **AI, distributed systems, backend engineering,
 * 🕉️ Ramayana & Mahabharata enthusiast
 * 🔍 Usually somewhere between *“Why does this work?”* and *“What if we tried this instead?”*
 
+---
 ### 💻 Stack
 
 **Languages**
@@ -58,24 +59,25 @@ Software Engineer working across **AI, distributed systems, backend engineering,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 ### 🏆 Highlights
 
 - 🚀 Built an AI-agent solution that reduced assessment costs from **~$100K to ~$1K/year** and cut report generation time from **7 days to ~2 minutes**
 - 💻 Worked as a **Software Engineer at Qualys** and **Software Development Engineer (AI) Intern at F5**, building scalable backend, cloud, and AI-powered systems
 - 🎓 Graduated **3rd in a batch of 83** with a **9.50/10 CGPA** in Information Technology
 - 🔬 Worked as a **Research Assistant at NC State**, exploring AI/ML, intelligent systems, and healthcare applications
-
+---
 ### 🧭 Leadership
 
 - 🏆 Led teams across **7+ hackathons**, including **Smart India Hackathon (SIH)**, taking ideas from problem definition to working solutions
 - 🤝 Enjoy bringing people with different strengths together, figuring out where each person can contribute best, and keeping the team moving toward the same goal
-
+---
 ### 🏏 Beyond Technology
 
 - 🏏 **Cricket:** passionate player with a deep interest in the strategy, tactics, and nuances of the game
 - ♟️ **Chess:** enthusiast with a strong interest in strategy, positional play, and the psychology behind decisions
 - 📜 **History:** deeply interested in Indian history, civilizations, and the events and ideas that shaped the world we see today
-  
+---
 ### 🔬 Research & Curiosity
 Published research on “Lung Segmentation and Disease Classification Using Chest X-Ray Images,” exploring how AI/ML can support medical imaging and healthcare decision-making. 
 As a Research Assistant at NC State, I also worked on intelligent systems and applied AI.
@@ -85,7 +87,7 @@ I’m interested in the intersection of technology, people, and decision-making�
 I like going one layer deeper than the obvious answer.
 
 **Why? → What if? → Let's build it.**
-
+---
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yashdhavale/)
@@ -93,3 +95,9 @@ I like going one layer deeper than the obvious answer.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ydhavale45)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
